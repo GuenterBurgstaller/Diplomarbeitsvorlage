@@ -1,12 +1,12 @@
 %% htldipl.cls
-%% Modifiziert von: Wolfgang Schermann
+%% Modifiziert von: Wolfgang Schermann und Günter Burgstaller
 %% Ursprünglich: hgbthesis.cls
 %% Ursprünglicher Autor: Wilhelm Burger (wilhelm.burger@fh-hagenberg.at)
 
 \NeedsTeXFormat{LaTeX2e}
-\newcommand{\htldiplDate}{2018/07/01} %Versionsdatum
+\newcommand{\htldiplDate}{2024/10/06} %Versionsdatum
 \ProvidesClass{htldipl}[\htldiplDate\space LaTeX-Vorlage fuer Diplomarbeiten
-der HTL Wiener Neustadt]
+der HTL Mödling]
 
 \author{ }
 
